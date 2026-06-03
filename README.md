@@ -10,7 +10,7 @@ Le dépistage s'effectue généralement à l'aide d'un **mammographe**, un appar
 
 ### L'Appareil Mammaire (Mammographe)
 <p align="center">
-  <img src=""C:\Users\HP\Downloads\MRI Bleu.png"" alt="Mammographe 3D" width="400"/>
+  <img src="C:\Users\HP\Downloads\MRI Bleu.png"/>
   <br><em>Figure 1 : MRI - mammographie de clichés mammaires.</em>
 </p>
 
