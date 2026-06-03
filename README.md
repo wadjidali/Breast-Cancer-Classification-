@@ -10,8 +10,8 @@ Le dépistage s'effectue généralement à l'aide d'un **mammographe**, un appar
 
 ### L'Appareil Mammaire (Mammographe)
 <p align="center">
-  <img src="C:\Users\HP\Downloads\MRI Bleu.png"/>
-  <br><em>Figure 1 : MRI - mammographie de clichés mammaires.</em>
+  <img src="MRI%20Bleu.png" width="500"/>
+  <br><em>Figure 1 : MRI - Résonance magnétique ou clichés mammaires.</em>
 </p>
 
 ---
@@ -37,36 +37,31 @@ Les images obtenues via mammographie ou échographie mammaire sont analysées pa
 - **Librairies principales :** TensorFlow / Keras (ou PyTorch), OpenCV, NumPy, Matplotlib, Scikit-learn
 
 ## 📈 Résultats et Métriques du Modèle
+
+<p align="center">
+  <img src="donn%C3%A9es.png" width="500"/>
+  <br><em>Figure 2 : Données ayant servi à l'étude - source : Kaggle.</em>
+</p>
+
+<p align="center">
+  <img src="model%20s%C3%A9quentiel.png" width="500"/>
+  <br><em>Figure 3 : Structure du modèle séquentiel (CNN).</em>
+</p>
+
+<p align="center">
+  <img src="visual%20seabrn.png" width="500"/>
+  <br><em>Figure 4 : Visualisation de la distribution des données avec Seaborn.</em>
+</p>
+
+<p align="center">
+  <img src="techvidan.png" width="500"/>
+  <br><em>Figure 5 : Architecture / Schéma Techvidan.</em>
+</p>
+
+<p align="center">
+  <img src="heatmap.png" width="500"/>
+  <br><em>Figure 6 : Heatmap de corrélation des caractéristiques.</em>
+</p>
+
 ---
 💡 *Projet réalisé dans le cadre de l'application de l'Intelligence Artificielle à la santé.*
-<p align="center">
-  <img src="C:\Users\HP\Downloads\données.png" />
-  <br><em>Figure 2 : Données ayant à l'étude - source : Kaggle.</em>
-</p>
-
-<p align="center">
-  <img src="C:\Users\HP\Downloads\données.png" />
-  <br><em>Figure 3 : Données ayant à l'étude - source : Kaggle.</em>
-</p>
-
-<p align="center">
-  <img src="C:\Users\HP\Downloads\model séquentiel.png"/>
-  <br><em>Figure 5 : Modèle séquentiel.</em>
-</p>
-
-<p align="center">
-  <img src="C:\Users\HP\Downloads\visual seabrn.png" />
-  <br><em>Figure 4 : Visualisation des données avec seaborn.</em>
-</p>
-
-<p align="center">
-  <img src="C:\Users\HP\Downloads\techvidan.png" />
-  <br><em>Figure 5 : Techvidan.</em>
-</p>
-
-<p align="center">
-  <img src="C:\Users\HP\Downloads\heatmap.png"/>
-  <br><em>Figure 5 : Heatmap.</em>
-</p>
----
-
