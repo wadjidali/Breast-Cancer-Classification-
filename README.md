@@ -54,8 +54,8 @@ Les images obtenues via mammographie ou échographie mammaire sont analysées pa
 </p>
 
 <p align="center">
-  <img src="techvidan.png" width="500"/>
-  <br><em>Figure 5 : Architecture / Schéma Techvidan.</em>
+  <img src="accuracy.png" width="500"/>
+  <br><em>Figure 5 : Accurance.</em>
 </p>
 
 <p align="center">
